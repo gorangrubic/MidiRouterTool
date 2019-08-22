@@ -1,5 +1,5 @@
 # MidiRouterTool
-Sorfware MIDI router from input/output devices and MIDI ports on PC. Main purpose is Arduino MIDI synth development
+Sortware MIDI router from input/output devices and MIDI ports on PC. Main purpose is Arduino MIDI synth development
 
 The tool is a modification of JUCE Example "MIDI Demo", where MIDI messages, from all selected inputs are forwarded to the selected outputs.
 Also, it repeats the last note hit on the keyboard - in cycles and lengths specified with sliders on botton.
